@@ -1,0 +1,9 @@
+.selected{
+	border-color:#428bca !important;
+}
+
+#gallery_thumb div a{
+	text-align: center;
+	background-color: #ddd;
+	border: 4px #fff solid;
+}
